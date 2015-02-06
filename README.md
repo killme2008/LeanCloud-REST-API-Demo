@@ -1,7 +1,7 @@
 
 ## 简介
 
-使用各种语言调用 [LeanCloud REST API] 的例子源码，提供给开发者参考。
+使用各种语言调用 [LeanCloud REST API](https://leancloud.cn/docs/rest_api.html) 的例子源码，提供给开发者参考。
 
 ## 贡献
 
